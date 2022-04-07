@@ -1,21 +1,16 @@
 <?php
 
-
-## TESTANDO IF ELSE SE ESTA TUDO OK ANTES DE IMPLEMENTAR O FORMULARIO.
-$nome = "Gabriel";
-
-$idade= "10";
-
-if ($idade>18){
-    echo("Olá $nome, por sua idade ser de $idade anos, você está na categoria: Adulto!");
-}   
-elseif($idade<=18 and $idade>=13){
-    echo("Olá $nome, por sua idade ser de $idade anos, você está na categoria: Adolescente!");
-}
-elseif($idade >=6 and $idade <=12 ){
-    echo("Olá $nome, por sua idade ser de $idade anos, você está na categoria: Infatil!");
-
-}
-else
-    echo ("Olá $nome, por sua idade ser de $idade anos, você está na categoria: competir!");
 ?>
+<html>
+<head>
+    <title>Competição de Natação</title>
+</head>    
+<body>
+<h3>Olá, Digite seu nome e idade</h3>
+<form class="form-signin" action="info.php" method="post">
+    <input type="text"  name="nome"     placeholder="Digite Seu Nome"    required autofocus><br><br>
+    <input type="number"  name="idade"    placeholder="Digite Sua Idade"   required autofocus><br><br>
+    <button type="submit" >Enviar</button>
+</form>
+</body>
+</html>
