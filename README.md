@@ -5,17 +5,10 @@
 
 ## Notas de Atualização:
 
- - Adicionado Verificação de código para ver se o nome está vazio.
+ - Todas as informações de erro ou de sucesso são informadas agora direto na pagina inial
+ não tendo mais necessidade de entrar na página 'info.php' para ver o status da pesquisa.
 
- - Adicionado Verificação de código para ver se a idade está vazia.
-
- - Adicionado Verificação de código para ver se o nome possui mais de 3 digitos.
-
- - Adicionado Verificação de código para ver se o nome possui até de 30 digitos.
-
- - Adicionado Verificação de código para ver se o nome possui mais de 3 digitos.
-
- - Adicionado Verificação de código para ver se a idade está recebendo um valor numérico.
+ - Foi criado sessões para usar os dados de uma página na outra.
 
 ### Curso Dio PHP
 
