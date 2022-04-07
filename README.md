@@ -2,6 +2,21 @@
 
 ## Natação
 
+
+## Notas de Atualização:
+
+ - Adicionado Verificação de código para ver se o nome está vazio.
+
+ - Adicionado Verificação de código para ver se a idade está vazia.
+
+ - Adicionado Verificação de código para ver se o nome possui mais de 3 digitos.
+
+ - Adicionado Verificação de código para ver se o nome possui até de 30 digitos.
+
+ - Adicionado Verificação de código para ver se o nome possui mais de 3 digitos.
+
+ - Adicionado Verificação de código para ver se a idade está recebendo um valor numérico.
+
 ### Curso Dio PHP
 
 
@@ -12,4 +27,3 @@
 
  - Por Gabriel Arcangelo de Lima
  - https://github.com/hektorsoft
- 
