@@ -5,10 +5,11 @@
 
 ## Notas de Atualização:
 
- - Todas as informações de erro ou de sucesso são informadas agora direto na pagina inial
- não tendo mais necessidade de entrar na página 'info.php' para ver o status da pesquisa.
+ - Código teve seus códigos encapsulados, facilitando a manutenção e organizando todo o código.
 
- - Foi criado sessões para usar os dados de uma página na outra.
+ - Adicionado pasta "servicos" onde estão todas as funções do projeto.
+ 
+ - Projeto Concluido em 08/04/2022
 
 ### Curso Dio PHP
 

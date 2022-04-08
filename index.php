@@ -1,6 +1,5 @@
 <?php
-session_start();
-
+include "servicos/messagemSessao.php";
 ?>
 <html>
 <head>
